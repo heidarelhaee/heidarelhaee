@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heidarelhaee
+- 👋 Salam Alikom, I’m @heidarelhaee
 - 👀 I’m interested in Android , Web , Ai , Robot
 - 🌱 I’m currently learning C++ , C , Rden
 - ⚡ Fun fact: I believe the Kotlin language is a Java framework because it converts the codes to Java!
